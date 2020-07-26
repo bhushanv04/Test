@@ -1,6 +1,9 @@
 testing
 modify
 bhush
+<<<<<<< HEAD
 a=10
 
 b=90
+=======
+>>>>>>> parent of 05412aa... added new line
